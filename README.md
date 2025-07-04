@@ -2,6 +2,10 @@
 
 An intuitive tool to calculate scaling percentages for 3D prints, convert real-world object sizes to model dimensions, and determine the correct scale for a desired model size.
 
+## 🚀 Live Demo
+
+**[View the App](https://urcheon.github.io/3d-print-scale-calculator/)**
+
 ## Features
 
 - **Scale Percentage Calculator**: Calculate the exact scaling percentage needed for your 3D prints
